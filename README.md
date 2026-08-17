@@ -1,2 +1,2 @@
 # python-foundations
-foundation for the python.
+My Python learning journey, practice programs, and foundational concepts
